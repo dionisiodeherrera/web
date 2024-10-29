@@ -1,0 +1,105 @@
+<html>
+<head>
+<Title>Fotos</Title>
+</head>
+<BODY BACKGROUND="fond.jpeg" TEXT="#FFFFFF">
+<style>
+body{
+margin:0;
+     font-family: sans-serif;
+     font-size:14px;
+}
+
+.menu-wrapper ul{
+padding: 0;
+list-style: none;
+}
+
+.principal-menu > li{
+display: inline-block;
+}
+.principal-menu > li > a{
+display: block;
+padding: 10px 5px;
+width: 90px;
+}
+
+li ul{
+ position: absolute;
+ display: none;
+}
+.sub-menu a{
+ display: block;
+ padding: 10px 5px;
+ width: 130px;
+}
+
+li:hover ul{
+ display:block;
+}
+
+.menu-wrapper, li lu{
+ background: #333;
+}
+
+.principal-menu{
+ width:412px;
+ margin:0 auto;
+}
+
+.principal-menu a{
+ color:#fff;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+.principal-menu li:hover{
+ background: #f75e25;
+ text-sadow:0 0 2px #000;
+}
+</style>
+</head>
+<body>
+
+<div class="menu-wrapper">
+    <ul class="principal-menu">
+
+           <li><a href="CEMNG DIONISIO DE HERRERA.html">Inicio</a></li>
+           <li><a href="#">Informacion</a>
+                  <ul class="sub-menu">
+                  <li><a href="Historia.html">Historia</a></li>
+                  <li><a href="Oferta Academica.html">Oferta Academica</a></li>
+            </ul>
+       </li>
+       <li><a>Portafolio</a>
+          <ul class="sub-menu">
+          <li><a href="Vida Estudiantil.html">Vida Estudiantil</a></li>
+          <li><a href="Fotogalerias.html">Fotogalerias</a></li>
+      </ul>
+      </li>
+       <li><a href="Contacto.html">Contacto</a></li></ul>
+</div>
+<CENTER>
+<IMG SRC="uno.JPG" width="250" height="250">
+<TD></TD><TD></TD><TD><IMG SRC="dos.JPG" width="250" height="250"></TD><TD></TD>
+<TD></TD><TD><IMG SRC="ocho.JPG" width="250" height="250"></TD>
+<P>
+<IMG SRC="tres.JPG" width="250" height="250">
+<TD></TD><TD><IMG SRC="cinco.JPG" width="250" height="250"></TD>
+<IMG SRC="seis.JPG" width="250" height="250">
+</HTML>
+
+<P>
+<TD></TD><TD><IMG SRC="siete.JPG" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="nueve.JPG" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="diez.JPG" width="250" height="250"></TD>
+
+<P>
+<TD></TD><TD><IMG SRC="once.JPG" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="doce.JPG" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="trece.JPG" width="250" height="250"></TD>
+
+<CENTER>
+<TD></TD><TD><IMG SRC="cuatro.JPG" width="300" height="300"></TD>
+</CENTER>
+</html>

@@ -1,0 +1,128 @@
+<html>
+<head>
+<Title>Vid</Title>
+<style>
+<BODY BACKGROUND="fond.png" >
+body{
+margin:0;
+     font-family: sans-serif;
+     font-size:14px;
+}
+
+.menu-wrapper ul{
+padding: 0;
+list-style: none;
+}
+
+.principal-menu > li{
+display: inline-block;
+}
+.principal-menu > li > a{
+display: block;
+padding: 10px 5px;
+width: 90px;
+}
+
+li ul{
+ position: absolute;
+ display: none;
+}
+.sub-menu a{
+ display: block;
+ padding: 10px 5px;
+ width: 130px;
+}
+
+li:hover ul{
+ display:block;
+}
+
+.menu-wrapper, li lu{
+ background: #333;
+}
+
+.principal-menu{
+ width:412px;
+ margin:0 auto;
+}
+
+.principal-menu a{
+ color:#fff;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+.principal-menu li:hover{
+ background: #f75e25;
+ text-sadow:0 0 2px #000;
+}
+</style>
+</head>
+<body>
+
+<div class="menu-wrapper">
+    <ul class="principal-menu">
+
+           <li><a href="CEMNG DIONISIO DE HERRERA.html">Inicio</a></li>
+           <li><a href="#">Informacion</a>
+                  <ul class="sub-menu">
+                  <li><a href="Historia.html">Historia</a></li>
+                  <li><a href="Oferta Academica.html">Oferta Academica</a></li>
+            </ul>
+       </li>
+       <li><a>Portafolio</a>
+          <ul class="sub-menu">
+          <li><a href="Vida Estudiantil.html">Vida Estudiantil</a></li>
+          <li><a href="Fotogalerias.html">Fotogalerias</a></li>
+      </ul>
+      </li>
+       <li><a href="Contacto.html">Contacto</a></li>
+
+</ul>
+</div>
+<CENTER><H2>Vida Estudiantil IDH</H5></CENTER>
+Los años de estudiante son la mejor época de la vida, son el momento de las  nuevas oportunidades, 
+de los primeros trazos de planes serios y de objetivos.
+Es el momento en el que los estudiantes empiezan a entender cómo hacer realidad sus ideas.
+<P>Como Instituto nos encargamos de promover la salud física y mental a través de diversas actividades, 
+la orientación vocacional y profesional en toda la comunidad universitaria.
+<P>Obtener nuevos conocimientos aumenta la autoestima y tener nuevos amigos aumenta la confianza en un mismo.
+<P>Pero la vida del estudiante no se reduce a conferencias, seminarios, exámenes y notas. 
+Es más, está colmada de interesantes y diferentes actividades.
+<BR>
+<BR>
+Para aquellos que rebosan energía ofrecemos una amplia variedad de actividades:
+<CENTER>
+<LI>Un inicio de año escolar exitoso.
+<P>Un día de emoción, sentimientos encontrados, alegría y felicidad como de incertidumbre para algunos, pero fue 
+un día de bendición y lleno de alegría.
+<IMG SRC="inicio.JPG" width="300" height="300">
+
+<LI>Lunes Civicos
+<P><IMG SRC="LUNES CIVICOS.png" width="280" height="200">
+
+<LI>Visitamos el Museo de la Casa Morazánica como parte del componente Cívico Morazánico del Trabajo Educativo Social.
+<P><IMG SRC="casa morazan.JPG" width="280" height="200">
+
+<LI>Realizamos Feria Cientifica
+<P><IMG SRC="feria.png" width="280" height="200">
+
+<LI>Contamos con un Equipo de Futbol
+<P><IMG SRC="futbol.png" width="280" height="200">
+
+<LI>Realizamos Nuestra Feria Cultural</LI>
+<P><IMG SRC="cultural.JPG" width="280" height="200">
+
+<LI>Destacamos en las Artes
+<P><IMG SRC="artes.png" width="250" height="200">
+
+<LI>Nuestro grupo de IDH Dance Crew
+<P><IMG SRC="danza.JPG" width="280" height="200">
+
+<LI>Premiamos Nuestra Excelencia Academica
+<P><IMG SRC="excelencia.JPG" width="300" height="200">
+</body>
+</html>
+
+
+</HTML>
